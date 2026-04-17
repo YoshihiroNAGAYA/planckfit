@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+.DS_Store
+*.pyc
+
+# Generated analysis outputs
+save/
+*.png
+*.pdf
+*.csv
+*.json
